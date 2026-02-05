@@ -1,0 +1,2 @@
+# Requires: hypothetical-pause
+# (Not available on PyPI)
